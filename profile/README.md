@@ -21,7 +21,7 @@ Our low-level approach leans heavily on the following technologies:
 
 [WebGL (WebGPU)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
-Our low-level approach minimises excessive tooling. Here are the few carefully considered tools in our tool-belt:
+Our approach also minimises excessive tooling. Here are the few carefully considered tools in our toolbelt:
 
 [Astro](https://astro.build)
 
