@@ -23,8 +23,10 @@ Our low-level approach leans heavily on the following technologies:
 
 Our approach also minimises excessive tooling. Here are the few carefully considered tools in our toolbelt:
 
-[Astro](https://astro.build)
+[Shopify](https://www.shopify.com)
 
 [Sanity](https://www.sanity.io)
 
-[Cloudflare](https://www.cloudflare.com/en-au/)
+[Cloudflare](https://www.cloudflare.com)
+
+[Astro](https://astro.build)
