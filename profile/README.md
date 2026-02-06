@@ -2,7 +2,7 @@
 
 Our approach to software is considered and minimal.
 
-We prioritise stability, readability and maintability and achieve this through a low-level approach.
+We prioritise stability, readability and maintainability and achieve this through a low-level approach.
 
 ## Technologies
 
