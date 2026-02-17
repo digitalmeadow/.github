@@ -21,7 +21,7 @@ Our low-level approach leans heavily on the following technologies:
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
 
-[WebGL (WebGPU)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+[WebGPU (WebGL)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
 Our approach also minimises excessive tooling. Here are the few carefully considered tools in our toolbelt:
 
