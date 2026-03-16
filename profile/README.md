@@ -32,3 +32,5 @@ Our approach also minimises excessive tooling. Here are the few carefully consid
 [Cloudflare](https://www.cloudflare.com)
 
 [Astro](https://astro.build)
+
+[Nanostores](https://github.com/nanostores)
